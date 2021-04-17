@@ -1,0 +1,5 @@
+uploads/
+Model_Resnet50.hdf5
+Datasets/
+c19class/
+test_images/
